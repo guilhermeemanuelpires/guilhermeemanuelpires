@@ -2,12 +2,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeemanuelpires/)](https://www.linkedin.com/in/guilhermeemanuelpires/)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeemanuelpires&show_icons=true&theme=radical&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermeemanuelpires&show_icons=true&theme=radical&layout=compact" />
 </a>
+<br/>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeemanuelpires&show_icons=true&theme=radical&layout=compact" />
+</a>
+
 <!--
 **guilhermeemanuelpires/guilhermeemanuelpires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
